@@ -63,10 +63,10 @@
 `printf("output Msg");`
 
 (```)
-        function(){<br>
-		printf("call system function");<br>
+        function(){
+		printf("call system function");
 	}
-	function();<br>
+	function();
 (```)
 
 ```c
